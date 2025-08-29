@@ -1,0 +1,11 @@
+{
+  "name": "tea-awesome",
+  "version": "1.0.0",
+  "description": "Experimental repo for Tea Protocol (TeaRank)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "rizafs",
+  "license": "MIT"
+}
