@@ -1,0 +1,5 @@
+project: tea-awesome
+version: 1.0.0
+quorum: 1
+contributors:
+  - github: rizafs
